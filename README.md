@@ -1,1 +1,1 @@
-TECHNOHACKS JAVA SWING
+"Java is a versatile, object-oriented programming language renowned for its portability and robustness. With a rich standard library and vibrant ecosystem, it powers a wide range of applications from web and mobile to enterprise-level systems. Write once, run anywhere with Java's platform independence, making it a top choice for developers worldwide."
